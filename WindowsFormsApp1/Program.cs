@@ -18,6 +18,8 @@ namespace WindowsFormsApp1
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine("asda");
+            Console.WriteLine("Putin");
+            Console.WriteLine("asdzvzsvd");
         }
     }
 }
