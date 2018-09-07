@@ -19,7 +19,6 @@ namespace WindowsFormsApp1
             Application.Run(new Form1());
 
             Console.WriteLine("asda");
-            Console.WriteLine("Putin");
             Console.WriteLine("Putisdadan");
             Console.WriteLine("asdzvzsvd");
         }
