@@ -20,6 +20,7 @@ namespace WindowsFormsApp1
 
             Console.WriteLine("asda");
             Console.WriteLine("Putin");
+            Console.WriteLine("Putisdadan");
             Console.WriteLine("asdzvzsvd");
         }
     }
